@@ -11,7 +11,9 @@ Bloque B - Acción Real: Antes de decir "dale, te anoto", el bot va y chequea Go
 
 Bloque C - El "Plan B": Si alguien cancela, el bot no se queda de brazos cruzados; está pensado para ofrecer ese lugar a alguien en lista de espera.
 
+
 <img width="1280" height="644" alt="image" src="https://github.com/user-attachments/assets/1637f069-46f3-404e-a500-53da0cf2f7de" />
+
 
 
 🏗️ El Stack Técnico: n8n + IA
@@ -23,7 +25,9 @@ Google Sheets Tool: Nuestra base de datos para que no se pierda ni un contacto.
 
 Memoria: Para que el bot no sea un "desmemoriado" y se acuerde de qué venían hablando.
 
+
 <img width="1280" height="561" alt="image" src="https://github.com/user-attachments/assets/3e698280-0f63-4dd6-a773-cd5ef0829e4c" />
+
 
 
 🧠 Prompt Engineering: El cerebro del bot
